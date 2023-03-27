@@ -55,19 +55,19 @@ Puzzle mode commands: While the program is in puzzle mode, all commands will be 
 
 <What does the default map look like?>
 
-			[1]
+            [1]
 
-			 |
+             |
 
 [2]    -    [3]    -    [4]
 
-						 |
+                         |
+			 
+                        [5]
 
-						[5]
+                         |
 
-						 |
-
-						[6]
+                        [6]
 
 1: Arcade
 2: Break Room - contains a puzzle
