@@ -1,0 +1,12 @@
+Golden Spatula
+The lunch lady's most prized possession. Her passion for the job is reflected in this utensil's shiny coat.
+3
+---
+Crowbar
+Slim, slick, and perfect for bashing in the skull of any enemy who stands in your way. Use wisely.
+4
+---
+The Necronomicon
+This eerie book makes you uncomfortable looking at it. It's like it's staring back at you. You shrug this feeling off as the power this book gives you is too powerful to pass up.
+6
+---

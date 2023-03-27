@@ -1,0 +1,6 @@
+1,Arcade,0,0,3,0
+2,Break Room,0,3,0,0
+3,Cafeteria,1,4,0,2
+4,Bathroom,0,0,5,3
+5,Unnecessarily Long-Named Room,4,0,6,0
+6,Library,5,0,0,0

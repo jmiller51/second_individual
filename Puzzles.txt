@@ -1,0 +1,18 @@
+Days in Week
+How many days are in a week?
+7
+3
+2
+---
+Word Length
+How many letters are in the word 'potato'?
+6
+2
+5
+---
+Square Root
+What is the square root of 64?
+8
+4
+6
+---
